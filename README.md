@@ -1,8 +1,13 @@
-# Version 2.0
-# Notas de la versión 2.0
+# Version 2.1
+# Notas de la versión 2.1
 
-Corrección visual general de todas las pantallas del proyecto
+# Funciones implementadas:
+-Se implemento el menu de cajero
 
-Se testearon todas las funciones en donde funcionaron correctamente
+-Dentro del menu cajero se puede buscar a los residentes y confirmar el pago en efectivo
 
-En las ramas estan las versiones anteriores junto a sus notas de versión.
+
+# Cambios
+-Para confirmar el pago en efectivo el Usuario Cajero tiene que confirmar los pagos desde el menu Cajero
+
+-Se cambio el color del boton de Salir/Cancelar para que sea más visible para el usuario
